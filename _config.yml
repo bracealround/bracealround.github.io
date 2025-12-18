@@ -22,15 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sourav Saha"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student in Computer Science | Computational Biology & Machine Learning"
+  location         : "Orlando, FL, USA"
+  employer         : "University of Central Florida"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # Add your email here
 
   # Academic websites
   academia         : # URL

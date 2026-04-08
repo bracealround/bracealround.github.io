@@ -13,7 +13,7 @@ Feel free to reach out to me if you would like to chat about research, collabora
 
 ---
 
-## News
+## Recent Updates
 
 **01/2025** &nbsp;&nbsp; Paper accepted! *PolyA-GLM: A comprehensive framework for De novo polyadenylation site prediction using genome language models* accepted in **Computational and Structural Biotechnology Journal (CSBJ)**, Elsevier, Q1, Impact Factor 5.2.
 

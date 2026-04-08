@@ -8,19 +8,19 @@ redirect_from:
 ---
 
 *"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."*
-— Brian Herbert
-
----
+<br>— Brian Herbert
 
 I am a **PhD student in Computer Science** at the [University of Central Florida](https://www.ucf.edu/), working in the **Computational Biology & Machine Learning Lab**. My research sits at the intersection of **deep learning, NLP, and computational biology** — I build on methods from natural language processing to tackle problems in genomics, proteomics, and post-transcriptional gene regulation.
 
 ## Research Interests
 
-A central question driving my work: *Can the same architectures that decode human language also decode the language of life?* I explore how large language models can be adapted to understand genomic sequences, protein structures, and the regulatory mechanisms that govern cellular processes — with applications in drug discovery and cancer research.
+A central question driving my work: *Can the same architectures that decode human language also decode the language of life?* I explore how large language models can be adapted to understand genomic sequences, protein structures, and the regulatory mechanisms that govern cellular processes — with applications in **drug discovery** and **cancer research**.
+
+I leverage advanced ML techniques including **diffusion models**, **reinforcement learning**, **RLHF**, **retrieval-augmented generation (RAG)**, and **classifier-free guidance (CFG)** to model complex biological systems and generate novel therapeutic candidates.
 
 Currently, I work on:
 - **Genome language models** for polyadenylation site prediction
-- **Diffusion models** for protein structure and function
+- **Diffusion models** for protein structure, function, and drug discovery
 - **Computational tools** for alternative splicing and polyadenylation analysis
 
 ## Background
@@ -29,15 +29,13 @@ Before starting my PhD, I was a **Machine Learning Engineer at Reve Systems**, w
 
 I completed my **B.Sc. in Computer Science & Engineering** from Shahjalal University of Science & Technology (SUST), graduating with distinction (CGPA: 3.79).
 
----
-
 *Feel free to reach out if you'd like to discuss research, collaboration, or anything related to my work.*
-
----
 
 ## Recent Updates
 
-**01/2025** &nbsp;&nbsp; Paper accepted! *PolyA-GLM: A comprehensive framework for De novo polyadenylation site prediction using genome language models* accepted in **Computational and Structural Biotechnology Journal (CSBJ)**, Elsevier, Q1, Impact Factor 5.2.
+**03/2026** &nbsp;&nbsp; Passed my **PhD Qualifying Review** at the University of Central Florida.
+
+**12/2025** &nbsp;&nbsp; Paper accepted! *PolyA-GLM: A comprehensive framework for De novo polyadenylation site prediction using genome language models* accepted in **Computational and Structural Biotechnology Journal (CSBJ)**, Elsevier, Q1, Impact Factor 5.2.
 
 **03/2025** &nbsp;&nbsp; New publication! Co-authored a comprehensive survey on *Computational Methods for Alternative Polyadenylation and Splicing in Post-Transcriptional Gene Regulation* published in **Experimental & Molecular Medicine** (Nature Publishing Group, Q1, IF 12.8). [6 citations]
 

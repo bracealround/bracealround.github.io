@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-*"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."*
-<br>— Brian Herbert
+> *"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."*
+> — Brian Herbert
 
 I am a **PhD student in Computer Science** at the [University of Central Florida](https://www.ucf.edu/), working in the **Computational Biology & Machine Learning Lab**. My research sits at the intersection of **deep learning, NLP, and computational biology** — I build on methods from natural language processing to tackle problems in genomics, proteomics, and post-transcriptional gene regulation.
 

@@ -1,0 +1,109 @@
+/* ==========================================================================
+   CUSTOM STYLES — Sourav Saha Academic Website
+   ========================================================================== */
+
+/* --- Masthead: accent bottom border --- */
+.masthead {
+  border-bottom: 2px solid #1a56a0 !important;
+
+  &::after {
+    display: none; /* remove the default gray line, replaced by border above */
+  }
+
+  &__inner-wrap a {
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+}
+
+/* --- Sidebar: refined avatar and name --- */
+.author__avatar img {
+  border: 2px solid #1a56a0 !important;
+  box-shadow: 0 2px 8px rgba(26, 86, 160, 0.15);
+}
+
+.author__name {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: #1a2a4a;
+}
+
+.author__bio {
+  color: #4a5568;
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+
+/* --- Page headings --- */
+.page__content {
+  h2 {
+    color: #1a2a4a;
+    font-weight: 700;
+    border-bottom: 2px solid #1a56a0;
+    padding-bottom: 0.4em;
+    margin-top: 1.8em;
+    letter-spacing: 0.01em;
+  }
+
+  h3 {
+    color: #1a2a4a;
+    font-weight: 600;
+  }
+}
+
+/* --- Blockquote (opening quote) --- */
+blockquote {
+  border-left: 3px solid #1a56a0 !important;
+  background: #f5f8fd;
+  border-radius: 0 4px 4px 0;
+  padding: 0.8em 1.2em !important;
+  margin: 0 0 1.5em 0 !important;
+  color: #2d3748;
+  font-size: 0.97em;
+}
+
+/* --- Recent Updates: subtle entry styling --- */
+.page__content p strong:first-child {
+  color: #1a56a0;
+  font-variant-numeric: tabular-nums;
+}
+
+/* --- Navigation links --- */
+.greedy-nav a {
+  font-weight: 500;
+
+  &:hover {
+    color: #1a56a0;
+  }
+}
+
+/* --- Publication list --- */
+.archive__item-title {
+  font-size: 1em;
+  font-weight: 600;
+  color: #1a2a4a;
+
+  a {
+    color: #1a56a0 !important;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* --- Footer --- */
+.page__footer {
+  background: #f0f4fa;
+  border-top: 2px solid #dde5f0;
+  color: #4a5568;
+
+  footer {
+    color: #4a5568;
+  }
+
+  a {
+    color: #1a56a0;
+  }
+}

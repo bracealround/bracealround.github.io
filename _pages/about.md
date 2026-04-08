@@ -7,18 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-*"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."*  
-— Brian Herbert
+I am a **PhD student in Computer Science** at the [University of Central Florida](https://www.ucf.edu/), working in the **Computational Biology & Machine Learning Lab**. My research sits at the intersection of **deep learning, NLP, and computational biology** — I build on methods from natural language processing to tackle problems in genomics, proteomics, and post-transcriptional gene regulation.
 
-I am a second-year PhD student in Computer Science at the University of Central Florida, working in the Computational Biology & Machine Learning Lab.
+## Research Interests
 
-How can we apply the power of large language models beyond natural language? Can the same architectures that excel at understanding human text also decode the language of life—genomic sequences, protein structures, and the complex regulatory mechanisms that govern cellular processes? If so: how do we adapt these models to capture biological semantics? How can we leverage them to accelerate drug discovery and cancer research? — these are some of the key questions I am exploring in my research.
+A central question driving my work: *Can the same architectures that decode human language also decode the language of life?* I explore how large language models can be adapted to understand genomic sequences, protein structures, and the regulatory mechanisms that govern cellular processes — with applications in drug discovery and cancer research.
 
-Broadly, I apply **deep learning and NLP techniques to computational biology**, building on my foundation in Natural Language Processing to tackle problems in **genomics, proteomics, and cancer research**. I am particularly interested in using genome language models and diffusion models to understand post-transcriptional gene regulation and predict protein structures and functions.
+Currently, I work on:
+- **Genome language models** for polyadenylation site prediction
+- **Diffusion models** for protein structure and function
+- **Computational tools** for alternative splicing and polyadenylation analysis
 
-Before starting my PhD, I was a Machine Learning Engineer at REVE Systems, where I developed production-ready NLP systems for Bangla, a low-resource language. I also taught at the University of Asia Pacific. I completed my B.Sc. in Computer Science and Engineering at Shahjalal University of Science and Technology (SUST), graduating with distinction.
+## Background
 
-Feel free to reach out to me if you would like to chat about research, collaboration, or if you have any questions about my work.
+Before starting my PhD, I was a **Machine Learning Engineer at Reve Systems**, where I built production NLP systems for Bangla — a low-resource language. I also served as a **Lecturer at the University of Asia Pacific**, and organized the first shared task on Violence-Inciting Text Detection at **EMNLP 2023** (27 teams, 16 papers).
+
+I completed my **B.Sc. in Computer Science & Engineering** from Shahjalal University of Science & Technology (SUST), graduating with distinction (CGPA: 3.79).
+
+---
+
+*Feel free to reach out if you'd like to discuss research, collaboration, or anything related to my work.*
 
 ---
 

@@ -15,21 +15,21 @@ Feel free to reach out to me if you would like to chat about research, collabora
 
 ## News
 
-**12/2024** &nbsp;&nbsp; Paper under review! Submitted work on applying genome language models to predict novel polyadenylation sites to *Computational and Structural Biotechnology Journal* (currently in minor revision).
+**01/2025** &nbsp;&nbsp; Paper accepted! *PolyA-GLM: A comprehensive framework for De novo polyadenylation site prediction using genome language models* accepted in **Computational and Structural Biotechnology Journal (CSBJ)**, Elsevier, Q1, Impact Factor 5.2.
 
-**09/2024** &nbsp;&nbsp; New publication! Co-authored a comprehensive survey on *Computational Methods for Alternative Polyadenylation and Splicing in Post-Transcriptional Gene Regulation* published in *Experimental & Molecular Medicine* (Nature Publishing Group). [2 citations]
+**03/2025** &nbsp;&nbsp; New publication! Co-authored a comprehensive survey on *Computational Methods for Alternative Polyadenylation and Splicing in Post-Transcriptional Gene Regulation* published in **Experimental & Molecular Medicine** (Nature Publishing Group, Q1, IF 12.8). [6 citations]
 
 **08/2024** &nbsp;&nbsp; Started serving as Graduate Teaching Assistant for Introduction to Computer Concepts at UCF.
 
 **08/2024** &nbsp;&nbsp; Started PhD at University of Central Florida! Working on genome language models and diffusion models in proteomics.
 
-**04/2024** &nbsp;&nbsp; Our paper *Data, Annotation, and Meaning-Making: Faith-Based Communal Violence* has been accepted at **ACM FAccT 2024**! [4 citations]
+**04/2024** &nbsp;&nbsp; Our paper *Data, Annotation, and Meaning-Making: Faith-Based Communal Violence* has been accepted at **ACM FAccT 2024**! [9 citations]
 
-**04/2024** &nbsp;&nbsp; Our paper *BnPC: A Gold Standard Corpus for Paraphrase Detection in Bangla* has been accepted at **BUCC Workshop @ LREC-COLING 2024**! [2 citations]
+**04/2024** &nbsp;&nbsp; Our paper *BnPC: A Gold Standard Corpus for Paraphrase Detection in Bangla* has been accepted at **BUCC Workshop @ LREC-COLING 2024**! [4 citations]
 
 **02/2024** &nbsp;&nbsp; Started position as Lecturer at University of Asia Pacific, teaching Data Structures, OOP, and Software Development.
 
-**12/2023** &nbsp;&nbsp; Two papers accepted at **BLP Workshop @ EMNLP 2023**! *Vio-Lens: Annotated Social Network Posts Leading to Communal Violence* [26 citations] and *BLP Shared Task 1: Violence-Inciting Text Detection* [17 citations].
+**12/2023** &nbsp;&nbsp; Two papers accepted at **BLP Workshop @ EMNLP 2023**! *Vio-Lens: Annotated Social Network Posts Leading to Communal Violence* [30 citations] and *BLP Shared Task 1: Violence-Inciting Text Detection* [18 citations].
 
 **12/2023** &nbsp;&nbsp; Successfully organized the first shared task on Violence-Inciting Text Detection at BLP Workshop @ EMNLP 2023. 27 teams participated, 16 papers accepted.
 
